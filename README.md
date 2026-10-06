@@ -15,11 +15,11 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Dashboard Preview](#dashboard-preview)
 - [Key Features & Visualizations](#key-features--visualizations)
 - [Key Business Insights](#key-business-insights)
 - [How to Download and Open the `.twbx` File](#how-to-download-and-open-the-twbx-file)
 - [Data Source](#data-source)
-- [Dashboard Preview](#dashboard-preview)
 - [License](#license)
 
 ---
@@ -29,6 +29,12 @@
 The **COVID-19 Global Visualization** is an interactive Tableau dashboard built to provide a clear, visual understanding of how the COVID-19 pandemic unfolded globally during its critical early months. By consolidating daily data on confirmed cases, deaths, and recoveries across affected countries, this dashboard empowers users — public health professionals, researchers, data analysts, and the general public — to explore trends, compare country-level outcomes, and identify key inflection points in the pandemic timeline.
 
 The dashboard covers the period from **January 22, 2020** through **April 22, 2020**, a window that captures the initial outbreak, global spread, and early recovery trends.
+
+---
+
+## Dashboard Preview
+
+![COVID-19 Global Visualization Dashboard](COVID19.png)
 
 ---
 
@@ -98,14 +104,6 @@ The dashboard is powered by **3 Excel sheets** containing a combined total of **
 | Deaths | Daily cumulative confirmed COVID-19 deaths by country |
 
 **Time Range:** January 22, 2020 – April 22, 2020
-
----
-
-## Dashboard Preview
-
-> Replace the placeholder below with a screenshot of your Tableau dashboard.
-
-![COVID-19 Global Visualization Dashboard](COVID19.png)
 
 ---
 
