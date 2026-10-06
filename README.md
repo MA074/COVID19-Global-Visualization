@@ -105,7 +105,7 @@ The dashboard is powered by **3 Excel sheets** containing a combined total of **
 
 > Replace the placeholder below with a screenshot of your Tableau dashboard.
 
-![COVID-19 Global Visualization Dashboard](dashboard_preview.png)
+![COVID-19 Global Visualization Dashboard](COVID19.png)
 
 ---
 
