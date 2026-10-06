@@ -105,14 +105,3 @@ The dashboard is powered by **3 Excel sheets** containing a combined total of **
 
 **Time Range:** January 22, 2020 – April 22, 2020
 
----
-
-## License
-
-This project is intended for educational and analytical purposes. The data used reflects publicly available COVID-19 statistics for the specified time period.
-
----
-
-<p align="center">
-  <sub>Built with Tableau • Data Visualization Portfolio Project</sub>
-</p>
