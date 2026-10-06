@@ -15,9 +15,9 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Key Business Insights](#key-business-insights)
 - [Dashboard Preview](#dashboard-preview)
 - [Key Features & Visualizations](#key-features--visualizations)
-- [Key Business Insights](#key-business-insights)
 - [How to Download and Open the `.twbx` File](#how-to-download-and-open-the-twbx-file)
 - [Data Source](#data-source)
 - [License](#license)
@@ -29,6 +29,18 @@
 The **COVID-19 Global Visualization** is an interactive Tableau dashboard built to provide a clear, visual understanding of how the COVID-19 pandemic unfolded globally during its critical early months. By consolidating daily data on confirmed cases, deaths, and recoveries across affected countries, this dashboard empowers users — public health professionals, researchers, data analysts, and the general public — to explore trends, compare country-level outcomes, and identify key inflection points in the pandemic timeline.
 
 The dashboard covers the period from **January 22, 2020** through **April 22, 2020**, a window that captures the initial outbreak, global spread, and early recovery trends.
+
+---
+
+## Key Business Insights
+
+The dashboard uncovers several critical insights from the data:
+
+1. **China led in confirmed cases with strong recovery rates**, while the **US led in death cases** — highlighting a stark contrast in early pandemic outcomes between the two most affected nations.
+
+2. **March 7, 2020 marked a critical turning point**, recording the maximum recovery rate of **34.78%** alongside **63.10% confirmed cases**. After this date, the recovery percentage began to decline while death rates continued to climb.
+
+3. **Death rates surged from 2.15% to 4.77%** between March 7 and April 22, 2020, underscoring the escalating severity of the pandemic in the weeks following the initial outbreak.
 
 ---
 
@@ -55,18 +67,6 @@ These donut charts provide a quick, at-a-glance understanding of the global dist
 
 ### 3. Map Chart — Spread of Confirmed Cases by Date
 An interactive geographic map that visualizes the spread of confirmed cases over time. Users can use the date slider/animation to watch the pandemic expand across continents day by day.
-
----
-
-## Key Business Insights
-
-The dashboard uncovers several critical insights from the data:
-
-1. **China led in confirmed cases with strong recovery rates**, while the **US led in death cases** — highlighting a stark contrast in early pandemic outcomes between the two most affected nations.
-
-2. **March 7, 2020 marked a critical turning point**, recording the maximum recovery rate of **34.78%** alongside **63.10% confirmed cases**. After this date, the recovery percentage began to decline while death rates continued to climb.
-
-3. **Death rates surged from 2.15% to 4.77%** between March 7 and April 22, 2020, underscoring the escalating severity of the pandemic in the weeks following the initial outbreak.
 
 ---
 
